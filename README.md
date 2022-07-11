@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Darwin Calix
-- 👀 I’m interested in Developer in pytho and Odoo
+- 👀 I’m interested in Developer in python and Odoo
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Odoo
 - 📫 How to reach me  --- > dgcalix@gmail.com
